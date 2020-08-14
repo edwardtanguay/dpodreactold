@@ -14,6 +14,8 @@ import { without } from 'lodash';
 //import { without} from './components/qtools/qstr';
 // const qstr = require('./components/qtools/qstr');
 
+// a change
+
 class App extends Component {
 	constructor() {
 		super();
